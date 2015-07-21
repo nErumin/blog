@@ -12,3 +12,4 @@ github_username:  nErumin
 # Build settings
 markdown: kramdown
 highlighter: pygments
+timezone: Asia/Seoul

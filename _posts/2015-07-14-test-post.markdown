@@ -1,0 +1,9 @@
+---
+layout: post
+title: "This is Test Post!"
+date: 2015-07-14 13:45:00
+categories: jekyll update
+---
+Test Post. [link][link1]
+
+[link1]: http://www.youtube.com
