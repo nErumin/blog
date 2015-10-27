@@ -1,4 +1,7 @@
 #BMP
+ * This project is for practicing making the personal blog using Jekyll (language : ruby).
+ * The purpose of project is for practicing markdown syntax, how to use HTML/css.
+
 *Hello MD*
 **This is Practice  **
 ***HTML?***
